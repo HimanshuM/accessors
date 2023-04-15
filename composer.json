@@ -9,5 +9,10 @@
     "description": "Define getter and setter for inaccessible members of a PHP class",
     "require": {
         "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Accessors\\": "src"
+        }
     }
 }

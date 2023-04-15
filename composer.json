@@ -1,0 +1,13 @@
+{
+    "name": "himanshu-m/accessors",
+    "license": "MIT",
+    "keywords": [
+        "getter",
+        "setter",
+        "readonly"
+    ],
+    "description": "Define getter and setter for inaccessible members of a PHP class",
+    "require": {
+        "php": ">=7.4"
+    }
+}
